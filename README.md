@@ -15,24 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Gopi Krishna M - DevOps and AWS Engineer</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-        .contact {
-            margin-bottom: 20px;
-        }
-        .section {
-            margin-bottom: 40px;
-        }
-    </style>
-</head>
-<body>
     <h1>Gopi Krishna M</h1>
     <div class="contact">
         <p>Mobile: +91 9666931848</p>
@@ -119,6 +101,4 @@ Here are some ideas to get you started:
             <li>Established configuration as code in Jenkins for configuring various tools and plugins which are required.</li>
         </ul>
     </div>
-</body>
-</html>
 
